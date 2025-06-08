@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mehrscent/static/css/main.e6c13ad2.css",
+    "main.js": "/mehrscent/static/js/main.02297663.js",
+    "static/js/453.64ba4123.chunk.js": "/mehrscent/static/js/453.64ba4123.chunk.js",
+    "index.html": "/mehrscent/index.html",
+    "main.e6c13ad2.css.map": "/mehrscent/static/css/main.e6c13ad2.css.map",
+    "main.02297663.js.map": "/mehrscent/static/js/main.02297663.js.map",
+    "453.64ba4123.chunk.js.map": "/mehrscent/static/js/453.64ba4123.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.02297663.js"
+  ]
+}
